@@ -1,0 +1,11 @@
+{
+  "name": "mf-vue",
+  "version": "0.0.0",
+  "description": "vue microfrontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew Bunch (bunch43@gmail.com)",
+  "license": "ISC"
+}
